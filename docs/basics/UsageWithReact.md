@@ -38,8 +38,8 @@ Finished reading the article? Let's recount their differences:
         </tr>
         <tr>
           <th scope="row" style="text-align:right">Aware of Redux</th>
-          <td>No</th>
-          <td>Yes</th>
+          <td>No</td>
+          <td>Yes</td>
         </tr>
         <tr>
           <th scope="row" style="text-align:right">To read data</th>
